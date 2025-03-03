@@ -2,8 +2,8 @@ package main
 
 import (
 	"awesomeProject/internal/core/application"
-	"awesomeProject/internal/framework/primary/rest"
-	"awesomeProject/internal/framework/secondary/memory"
+	"awesomeProject/internal/infrastructure/primary/rest"
+	"awesomeProject/internal/infrastructure/secondary/memory"
 	"fmt"
 	"net/http"
 )
